@@ -14,7 +14,7 @@ Game Legend
 This is an infinite Crossy Road-style game. Instead of the player reaching a fixed end point, the game creates the illusion of continuous movement: when the player moves up, the whole map scrolls down. This makes it feel like the character is constantly progressing through an endless road.
 <html>
 <p align="center">
-  <img src="assets/demo.gif" width="700" height ='1000' >
+  <img src="assets/CRDemo.gif" width="700" height ='1000' >
 </p>
 </html>
 
